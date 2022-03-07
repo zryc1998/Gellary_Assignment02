@@ -1,0 +1,15 @@
+com/example/gellary_159336_assignment02_20008378/FullImageActivity.java
+ com.example.gellary_159336_assignment02_20008378.FullImageActivity
+ com.example.gellary_159336_assignment02_20008378.FullImageActivity$1
+ com.example.gellary_159336_assignment02_20008378.FullImageActivity$2
+ com.example.gellary_159336_assignment02_20008378.FullImageActivity$ScaleListener
+com/example/gellary_159336_assignment02_20008378/BuildConfig.java
+ com.example.gellary_159336_assignment02_20008378.BuildConfig
+com/example/gellary_159336_assignment02_20008378/MainActivity.java
+ com.example.gellary_159336_assignment02_20008378.MainActivity
+ com.example.gellary_159336_assignment02_20008378.MainActivity$1
+ com.example.gellary_159336_assignment02_20008378.MainActivity$2
+ com.example.gellary_159336_assignment02_20008378.MainActivity$3
+ com.example.gellary_159336_assignment02_20008378.MainActivity$ThumbnailAdapter
+ com.example.gellary_159336_assignment02_20008378.MainActivity$ThumbnailAdapter$1
+ com.example.gellary_159336_assignment02_20008378.MainActivity$ThumbnailAdapter$ViewHolder

@@ -1,0 +1,10 @@
+#Mon Sep 20 22:06:50 NZST 2021
+base.2=/Users/chao/Desktop/Massey/159336_Mobile_Application_Development/Assignment_02/Gellary_159336_Assignment02_20008378_Final/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+path.2=5/classes.dex
+base.1=/Users/chao/Desktop/Massey/159336_Mobile_Application_Development/Assignment_02/Gellary_159336_Assignment02_20008378_Final/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/chao/Desktop/Massey/159336_Mobile_Application_Development/Assignment_02/Gellary_159336_Assignment02_20008378_Final/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
